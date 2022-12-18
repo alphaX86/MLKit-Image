@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MLKit Image Recognition</string>
+    <string name="tv_take_photo">Take photo</string>
+    <string name="tv_description">Select a preset image or take a new photo</string>
+    <string name="tv_placeholder">Image Recognition and Analysis using MLKit API</string>
+</resources>
