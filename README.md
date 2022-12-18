@@ -12,7 +12,3 @@ This project repository demonstrates how Google's MLKit API can be used for reco
 ## License
 
 Apache-2.0
-
-## Copyrights
-
-(c) 2022 Google, All rights reserved 
